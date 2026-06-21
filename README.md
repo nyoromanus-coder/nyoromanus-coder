@@ -30,8 +30,8 @@ Currently exploring **graduate study** in Cybersecurity / ML Security research (
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🔍 [Lightweight SIEM System](https://github.com/nyoromanus-coder/Roma-cybersecurity-projects) | Real-time log monitoring & alerting dashboard for small networks. Final year project. | Python, Flask, Dashboard UI |
-| 🎣 [Phishing URL Detector](https://github.com/nyoromanus-coder) | ML model (XGBoost, ~97% accuracy) that detects malicious URLs. Includes Flask web UI + Gmail API integration. | Python, XGBoost, Flask |
-| 📰 [Fake News Detection App](https://github.com/nyoromanus-coder) | NLP-based classifier to identify fake news articles. | Python, NLTK, Flask |
+|🎣 [Phishing URL Detector](https://github.com/nyoromanus-coder/Phishing-URL-Detector) | | ML model (XGBoost, ~97% accuracy) that detects malicious URLs. Includes Flask web UI + Gmail API integration. | Python, XGBoost, Flask |
+|📰 [Fake News Detection App](https://github.com/nyoromanus-coder/Fake-News-Detector) | | NLP-based classifier to identify fake news articles. | Python, NLTK, Flask |
 | 🔐 [Password Strength Checker](https://github.com/nyoromanus-coder/password_strength_checker) | Tool to evaluate password security with real-time feedback. | Python |
 | 💥 [Brute Force Simulation](https://github.com/nyoromanus-coder/bruteforce.py) | Educational tool demonstrating brute force attack mechanics. | Python |
 
